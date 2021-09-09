@@ -1,0 +1,10 @@
+{
+  "name": "ReactFRP",
+  "namespace": true,
+  "version": "0.1.0",
+  "sources": {
+    "dir" : "src",
+    "subdirs" : true
+  },
+  "bs-dependencies": ["rescript-weak-array"]
+}

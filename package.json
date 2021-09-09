@@ -1,0 +1,21 @@
+{
+  "name": "rescript-opam-react",
+  "version": "0.1.0",
+  "scripts": {
+    "clean": "rescript clean",
+    "build": "rescript build",
+    "watch": "rescript build -w"
+  },
+  "keywords": [
+    "ReScript"
+  ],
+  "author": "Daniel Bünzli",
+  "maintainers": ["Boris D."],
+  "license": "ISC",
+  "devDependencies": {
+    "rescript": "^9.1.4"
+  },
+  "dependencies": {
+    "rescript-weak-array": "github:dboris/rescript-weak-array"
+  }
+}
