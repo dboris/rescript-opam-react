@@ -1,7 +1,7 @@
 {
   "name": "rescript-opam-react",
+  "version": "0.1.1",
   "namespace": "ReactFRP",
-  "version": "0.1.0",
   "sources": {
     "dir" : "src",
     "subdirs" : true
